@@ -4,7 +4,7 @@
 
 <head>
   <meta charset="UTF-8">
-  <title>Akshay|Portfolio </title>
+  <title>Shashank|Portfolio </title>
   <link rel="stylesheet" href="style.css">
   <!-- Fontawesome CDN Link -->
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/css/all.min.css" />
@@ -24,7 +24,7 @@
         <li><a href="#home">Home</a></li>
         <li><a href="#about">About</a></li>
        <!-- <li><a href="#skills">Skills</a></li>-->
-        <li><a href="#services">My Novals</a></li>
+        <li><a href="#services">My certifications</a></li>
         <li><a href="#contact">Contact</a></li>
         <div class="cancel-btn">
           <i class="fas fa-times"></i>
@@ -56,9 +56,9 @@
     <div class="home-content">
       <div class="text">
         <div class="text-one">Hello, I'm</div>
-        <div class="text-two">AkshayKumar K N </div>
-        <div class="text-three"> Your Tenny Author<br><a href="https://www.instagram.com/an_authorized_novalist_poet_/">
-            @anauthorisednovalistpoet</a> </div>
+        <div class="text-two">Shashank R </div>
+        <div class="text-three"> Iam Becom student and master in Computer Science<br><a href="https://www.instagram.com/shashank_85_/">
+            @shashank85</a> </div>
         <div class="text-four">Bangarapet</div>
       </div>
 
@@ -75,7 +75,7 @@
       <div class="title"><span>About Me</span></div>
       <div class="about-details">
         <div class="left">
-          <img src="./Images/appu1.jpg"alt="akshay photo">
+          <img src="./Images/"alt="akshay photo">
         </div>
         <div class="right">
           <div class="topic">As a small author </div>
