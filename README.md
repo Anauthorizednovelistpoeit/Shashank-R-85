@@ -58,14 +58,14 @@
         <div class="text-one">Hello, I'm</div>
         <div class="text-two">Shashank R </div>
         <div class="text-three"> Iam Becom student and master in Computer Science<br><a href="https://www.instagram.com/shashank_85_/">
-            @shashank85</a> </div>
+            @shashank-85-</a> </div>
         <div class="text-four">Bangarapet</div>
       </div>
 
     </div>
     <!--<div class="imge">
       <img src="./Images/shape.png" class="shape">
-      <img src="./Images/share2588537473784655257.png" class="vi1">
+      <img src="./Images/shashank.png" class="vi1">
     </div>-->
   </section>
 
@@ -75,18 +75,20 @@
       <div class="title"><span>About Me</span></div>
       <div class="about-details">
         <div class="left">
-          <img src="./Images/"alt="akshay photo">
+          <img src="./Images/"alt="Shashank photo">
         </div>
         <div class="right">
-          <div class="topic">As a small author </div>
+          <div class="topic">As a Student </div>
           <p>
-            I am passionate and hard working person. I feel is very beautiful to sketch a 'NOVELS' and 'LIVRE'.
-            <br> My main objective would to have a voice in the process of ART (implementation of POEM and BOOKS) not
-            just to change a system of ART, but also to help to juveniles,
-            realize that they are capable and equipped to serve better in WORLD OF ART and I appreaciate.
-            <br> As a student of ENGINEERING. <br> At present I look forward to the upcomming new TECHNO WORLD. Being a part of
-            that. <br> I'm greatful to view the feature TECHNOLOGY. where the juveniles skill and knowledge could be
-            enhances.
+            I am passionate and smart working person. I aid to love to teach the aliens.
+            My main objective would to have a voice in the process of computer science.
+            But also help to juveniles, realize they are capable and equipped to serve in 
+            Knowledge and I appreaciate.
+            As a student of B.com.
+            At present I look forward to the upcoming new technology.
+            Being the part of that. I happy to guide.
+            Thank you.
+
           </p>
          <!--  <div class="button">
             <a href="https://drive.google.com/file/d/1uHXNsiTACDLGN7OYibhR6im0SRoixLhG/view?usp=sharing">
@@ -144,15 +146,15 @@
           <div class="icon">
             <i class="fa fa-book"></i>
           </div>
-          <div class="topic">Books</div>
-          <a href="https://drive.google.com/file/d/1-uNjFZrT0tKM4IBCtfC4lbw4VYOsv8AT/view?usp=drivesdk">Click here to access my BOOKs</a>
+          <div class="topic">Certificates</div>
+          <a href="https://drive.google.com/file/d/1-uNjFZrT0tKM4IBCtfC4lbw4VYOsv8AT/view?usp=drivesdk">Click here to access my Certificates</a>
         </div>
         <div class="box">
           <div class="icon">
             <i class="fa fa-pen-nib"></i>
           </div>
-          <div class="topic">Poems</div>
-           <a href="https://drive.google.com/drive/folders/1yqULBx_DXJYvu1VEzz_LDeo45fayieHV">Click here to access my poems</a>
+          <div class="topic">internship documents</div>
+           <a href="https://drive.google.com/drive/folders/1yqULBx_DXJYvu1VEzz_LDeo45fayieHV">Click here to access my Internship documents</a>
         </div>
       <!-- <div class="box">
           <div class="icon">
@@ -203,7 +205,7 @@
           
 
           <a href="https://t.me/imlivre"><i class="fab fa-telegram"></i></a> </span>
-          <a href="https://www.instagram.com/an_authorized_novalist_poet_/"><i class="fab fa-instagram"></i></a>
+          <a href="https://www.instagram.com/shashank_85_/"><i class="fab fa-instagram"></i></a>
 
             
         </div>
@@ -217,7 +219,7 @@
   <!-- Footer Section Start -->
   <footer>
     <div class="text">
-      <span>Created By <a href="https://www.instagram.com/an_authorized_novalist_poet_/">AkshayKumar</a> <br>
+      <span>Created By <a href="https://www.instagram.com/shashank_85_/">Shashank</a> <br>
         
        
     </div>
