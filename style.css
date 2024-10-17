@@ -1,3 +1,4 @@
+
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&family=Ubuntu:wght@400;500;700&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Pacifico&display=swap");
 
@@ -23,7 +24,7 @@ html {
 }
 .navbar.sticky {
   padding: 2px 0;
-  background-color: Crimson;
+  background-color: crimson;
 }
 .max-width {
   max-width: 1300px;
@@ -47,7 +48,7 @@ html {
   color: crimson;
 }
 .navbar.sticky .logo a span {
-  color: red;
+  color: white;
 }
 .navbar.sticky .logo a:hover,
 .navbar.sticky .logo a span:hover {
@@ -62,7 +63,7 @@ html {
   font-size: 18px;
   font-weight: 500;
   margin-left: 25px;
-  color: #f222;
+  color: #111;
   transition: color 0.3s ease;
 }
 .navbar .menu li a:hover {
@@ -147,7 +148,7 @@ html {
 .home .home-content a {
   display: inline-block;
   background: crimson;
-  color: #000;
+  color: #fff;
   font-size: 25px;
   padding: 8px 20px;
   margin-top: 20px;
@@ -161,7 +162,7 @@ html {
 
 .home .home-content a:hover {
   color: white;
-  background: #222;
+  background: #000;
 }
 
 /* all similar content styling code */
@@ -402,7 +403,7 @@ section .title::after {
   transition: all 0.3s ease;
 }
 .projects .carousel .card:hover img {
-  border-color: #111;
+  border-color: #fff;
 }
 .owl-dots {
   text-align: center;
