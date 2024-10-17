@@ -23,7 +23,7 @@ html {
 }
 .navbar.sticky {
   padding: 2px 0;
-  background-color: crimson;
+  background-color: white;
 }
 .max-width {
   max-width: 1300px;
@@ -38,7 +38,7 @@ html {
 .navbar .logo a {
   font-size: 30px;
   font-weight: 500;
-  color: #fff;
+  color: #111;
   font-family: "Pacifico";
   transition: all 0.3s ease;
 }
