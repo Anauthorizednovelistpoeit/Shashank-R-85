@@ -47,7 +47,7 @@ html {
   color: crimson;
 }
 .navbar.sticky .logo a span {
-  color: white;
+  color: black;
 }
 .navbar.sticky .logo a:hover,
 .navbar.sticky .logo a span:hover {
