@@ -44,7 +44,7 @@ html {
 }
 
 .navbar .logo a span {
-  color: #111;
+  color: crimson;
 }
 .navbar.sticky .logo a span {
   color: black;
@@ -62,7 +62,7 @@ html {
   font-size: 18px;
   font-weight: 500;
   margin-left: 25px;
-  color: #111;
+  color: #000;
   transition: color 0.3s ease;
 }
 .navbar .menu li a:hover {
@@ -161,7 +161,7 @@ html {
 
 .home .home-content a:hover {
   color: white;
-  background: #000;
+  background: #111;
 }
 
 /* all similar content styling code */
