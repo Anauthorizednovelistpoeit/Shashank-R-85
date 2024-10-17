@@ -62,7 +62,7 @@ html {
   font-size: 18px;
   font-weight: 500;
   margin-left: 25px;
-  color: #fff;
+  color: #f222;
   transition: color 0.3s ease;
 }
 .navbar .menu li a:hover {
@@ -161,7 +161,7 @@ html {
 
 .home .home-content a:hover {
   color: white;
-  background: #fff;
+  background: #222;
 }
 
 /* all similar content styling code */
@@ -402,7 +402,7 @@ section .title::after {
   transition: all 0.3s ease;
 }
 .projects .carousel .card:hover img {
-  border-color: #fff;
+  border-color: #111;
 }
 .owl-dots {
   text-align: center;
