@@ -44,7 +44,7 @@ html {
 }
 
 .navbar .logo a span {
-  color: crimson;
+  color: #111;
 }
 .navbar.sticky .logo a span {
   color: black;
